@@ -1,0 +1,34 @@
+Tugas praktikum Kecerdasan Buatan
+Nama 	: Gidion Lung Tumanan
+Nim	: 1515015129
+Kelas	: C2 2015
+
+
+
+
+1
+
+a.dian adalah orang
+b.atoz Merk mobil
+c.dian suka atoz
+d.atos dijual
+e.X dapat membeli Y jika.
+	X adalah orang,
+	Y adalah mobil,
+	X suka Y,
+	Y dijual.
+f.Dian suka Apa.
+
+
+
+2
+
+a.Hoby(ricky,catur).
+b.Orang(embang,pemalas).
+c.seorang(yusida,vegetarian).
+d.pandai(kusdiar,gitar).
+e.milik(mobil,sadek), warna(mobil,merah), merk(mobil,BMW).
+f.pemain(awan,piano), berasal(awan,pontianak), suku(awan,jawa).
+g.Dikatakan(orang,baik):- sifat(orang,penyayang), sifat(orang,dermawan).
+h.Dikatakan(orang,pintar):-dapat(matematika,tinggi); dapat(ipa,tinggi); dapat(ips,tinggi).
+i.setiap(orang,mati).
