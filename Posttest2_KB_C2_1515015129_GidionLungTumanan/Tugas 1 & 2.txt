@@ -30,5 +30,5 @@ d.pandai(kusdiar,gitar).
 e.milik(mobil,sadek), warna(mobil,merah), merk(mobil,BMW).
 f.pemain(awan,piano), berasal(awan,pontianak), suku(awan,jawa).
 g.Dikatakan(orang,baik):- sifat(orang,penyayang), sifat(orang,dermawan).
-h.Dikatakan(orang,pintar):-dapat(matematika,tinggi); dapat(ipa,tinggi); dapat(ips,tinggi).
+h.pintar(orang,pintar):-pintar(matematika,nilai_tinggi); pintar(ipa,nilai_tinggi); pintar(ips,nilai_tinggi).
 i.setiap(orang,mati).
